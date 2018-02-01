@@ -1,8 +1,8 @@
 # Spotify Clone App
 
-Learning [React Native](https://facebook.github.io/react-native/)
+Learning [React Native](https://facebook.github.io/react-native/), project developed in the course of [RocketSeat](https://github.com/RocketSeat).
 
-<img src="screenshot-demo.png">
+<img src="screenshot-demo.png" width="960">
 
 ## Prerequisites
 
