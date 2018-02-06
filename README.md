@@ -18,7 +18,7 @@ Learning [React Native](https://facebook.github.io/react-native/), project devel
 4. Install dependencies
 ```
 git clone https://github.com/drimarques/spotify.git
-cd ecommerce
+cd spotify
 npm install
 ```
 
