@@ -17,7 +17,7 @@ Learning [React Native](https://facebook.github.io/react-native/), project devel
 3. Go to the project folder
 4. Install dependencies
 ```
-https://github.com/adrianomarquess/spotify-clone.git
+git clone https://github.com/adrianomarquess/spotify-clone.git
 cd spotify-clone
 npm install
 ```
